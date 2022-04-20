@@ -371,15 +371,15 @@ namespace LogReader
             // checkForUpdateToolStripMenuItem
             // 
             this.checkForUpdateToolStripMenuItem.Name = "checkForUpdateToolStripMenuItem";
-            this.checkForUpdateToolStripMenuItem.Size = new System.Drawing.Size(258, 34);
+            this.checkForUpdateToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.checkForUpdateToolStripMenuItem.Text = "&Check for updates";
             this.checkForUpdateToolStripMenuItem.Click += new System.EventHandler(this.checkForUpdateToolStripMenuItem_Click);
             // 
             // aboutToolStripMenuItem1
             // 
             this.aboutToolStripMenuItem1.Name = "aboutToolStripMenuItem1";
-            this.aboutToolStripMenuItem1.Size = new System.Drawing.Size(258, 34);
-            this.aboutToolStripMenuItem1.Text = "&About SnakeTail";
+            this.aboutToolStripMenuItem1.Size = new System.Drawing.Size(270, 34);
+            this.aboutToolStripMenuItem1.Text = "&About LogReader";
             this.aboutToolStripMenuItem1.Click += new System.EventHandler(this.aboutToolStripMenuItem1_Click);
             // 
             // _MDITabControl
